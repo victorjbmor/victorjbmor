@@ -41,7 +41,6 @@ const dev = {
   location: "🌎 Brasil — Setor em ruínas",
   currentFocus: ["Java", "Spring Framework", "Bancos de Dados Relacionais e NoSQL"],
   languages: ["Java", "Python", "SQL", "C"],
-  motto: "No apocalipse do código, só sobrevive quem sabe debugar."
 };
 
 export default dev;
@@ -137,8 +136,8 @@ victorjbmor@bunker-terminal:~$ cat objetivos_2026.txt
 [ ] Construir um projeto completo do zero até produção
 [ ] Explorar arquitetura de microsserviços
 
-victorjbmor@bunker-terminal:~$ echo "Status: sobrevivendo e evoluindo 🔥"
-Status: sobrevivendo e evoluindo 🔥
+victorjbmor@bunker-terminal:~$ echo "Status: evoluindo 🔥"
+Status: evoluindo 🔥
 
 victorjbmor@bunker-terminal:~$ █
 ```
@@ -227,10 +226,3 @@ victorjbmor@bunker-terminal:~$ █
 
 </div>
 
-<sub>⚡ Feito com lógica e um pouco de ficção científica.</sub>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,2,2,5,30&section=footer" width="100%"/>
-
-</div>
